@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../JS-nang-cao/javascript-sandbox/02-arrays-and-objects"
+		},
+		{
+			"path": "../../JS-nang-cao/javascript-sandbox/03-functions-scope"
+		},
+		{
+			"path": "../../JS-nang-cao/javascript-sandbox/04-logic-control-flow"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab-1-js"
+	}
+}
